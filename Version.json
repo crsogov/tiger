@@ -1,9 +1,8 @@
-{
-  "latestVersion": "1.2.2",
-  "oldVersionMessage": "UPDATE DONE LATEST"
-  "notice": "<div style='background-color: #FFEA00; border-radius: 8px; display: flex; align-items: stretch; font-family: Arial, sans-serif; height: 32px; overflow: hidden; border: 1px solid #b2ebf2;'><span style='background-color: #040487; color: white; padding: 0 14px; font-weight: bold; margin-right: 10px; font-size: 14px; display: flex; align-items: center; justify-content: center;'>NEWS</span><span style='color: #004d40; font-weight: bold; font-size: 13px; display: flex; align-items: center; white-space: nowrap;'>07 AUG 2025 23:36 PM - CAPCHA SERVOR FIXED, FAST MODE DEFULT UPDATE DONE   </span></div>"
-}
+"latestVersion": "1.8.7",
+  "updateMessage": "Naya update aa gaya hai! Please update now for new features.",
+  "notice": "<div style='background-color: #FFEA00; border-radius: 8px; display: flex; align-items: stretch; font-family: Arial, sans-serif; height: 32px; overflow: hidden; border: 1px solid #b2ebf2;'><span style='background-color: #040487; color: white; padding: 0 14px; font-weight: bold; margin-right: 10px; font-size: 14px; display: flex; align-items: center; justify-content: center;'>NEWS</span><span style='color: #004d40; font-weight: bold; font-size: 13px; display: flex; align-items: center; white-space: nowrap;'>07 AUG 2025 23:41 AM - CAPCHA SERVOR FIXED, FAST MODE DEFULT UPDATE DONE   </span></div>"
  
+
 
 
 
